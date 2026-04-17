@@ -11,21 +11,21 @@
     width: 80%;
     margin: 20px auto;
     text-align: center;
-    background-color: #FF0000;
 }
 
 .EersteParagraaf {
+    color: white;
     width: 80%;
     margin: auto;
     text-align: center;
-    background-color: #FF0000;
 }
 
 .KopTekst {
     border-radius: 10px;
     width: 80%;
     margin: auto;
-    background-color: #FF0000;
+    background: linear-gradient(red, yellow, blue);
+    box-shadow: 0 0 30px 30px rgba(110, 0, 0, 1);
 }
 
 .EersteCaption {
@@ -60,3 +60,11 @@
     width: 20%;
 }
 
+.EersteRij {
+    background: linear-gradient(red 70%, blue);
+}
+
+html {
+    background: linear-gradient(red, yellow, blue);
+
+}
