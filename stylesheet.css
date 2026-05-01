@@ -30,6 +30,7 @@ html {
 
 table {
     width: 80%;
+    max-width: 80%;
     margin: 10px auto;
     padding: 10px;
     border: 1px solid whitesmoke;   
